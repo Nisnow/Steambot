@@ -1,0 +1,11 @@
+{
+    "name": "steambot",
+    "version": "1.0.0",
+    "description": "General purpose Discord bot",
+    "main": "bot.js",
+    "author": "Nisnow",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.6.0"
+    }
+}
